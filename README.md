@@ -1,2 +1,2 @@
 # posit-eigen-benchmark
-Comparing posit32 vs float64 in Eigen matrix operations
+Comparing posits vs IEEE floats in Eigen matrix operations
